@@ -4133,3 +4133,6 @@ body.is-mobile.landing #footer {
 #pp {
   color: white;
 }
+.menu001 > img {
+  width: 40vw;
+}
