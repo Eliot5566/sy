@@ -2880,7 +2880,7 @@ button:disabled,
 }
 
 .wrapper > .inner {
-  width: 60em;
+  width: 40em;
   margin: 0 auto;
 }
 
@@ -4128,11 +4128,18 @@ body.is-mobile.landing #footer {
 
 .menu001 {
   display: flex;
+  text-align: center;
 }
 
 #pp {
   color: white;
 }
 .menu001 > img {
-  width: 40vw;
+  width: 35vw;
+}
+
+.tomid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
